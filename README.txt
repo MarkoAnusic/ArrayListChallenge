@@ -1,1 +1,1 @@
-In this repository are all my Udemy java course projects.
+In this repository is my ArrayListChallenge solution.
